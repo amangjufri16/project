@@ -1,0 +1,58 @@
+body{
+    font-size: 30px;
+}
+.hijau{
+color:green;
+}
+
+.merah{
+color:red;
+}
+
+.biru{
+color:blue;
+}
+
+.putih{
+color: white;
+}
+
+.header{
+    background-color: cyan;
+    text-align: center;
+}
+
+.content{
+    text-align: center;
+    display: inline-block;
+    background-color: white; 
+    
+}
+
+.sidebar{
+    text-align: center;
+    display: inline-block;
+    background-color: green;
+    width:44%;
+    height:300px;
+}
+
+
+.main_content{
+    text-align: center;
+    display: block;
+    background-color: yellow;
+    width: 680%;
+    height: 380px;
+}
+
+.extra_content{
+    text-align: center;
+    background-color: gray;
+    height: 100px;
+}
+
+.footer{
+    text-align: center;
+    background-color: orange;
+}
